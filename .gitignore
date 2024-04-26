@@ -1,0 +1,6 @@
+Temp*.txt
+Result.txt
+build/
+#/pics/ #Only for root-directory, will not ignore res/pics
+#Will ignore pics' files
+res/pics/
