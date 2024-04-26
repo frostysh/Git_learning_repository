@@ -1,1 +1,2 @@
-print("FOR WHAT ITS WORTH?")
+def main():
+    print("FOR WHAT ITS WORTH?")
